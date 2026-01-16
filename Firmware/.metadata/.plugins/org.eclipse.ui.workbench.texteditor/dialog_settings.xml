@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="hasShownOverlayPopupBefore" value="true"/>
+	<item key="replaceBarOpen" value="true"/>
+	<list key="searchhistory">
+		<item value="lgc_get_state"/>
+		<item value="data.state"/>
+		<item value="hmi_msg"/>
+		<item value="lgc_printer_status"/>
+		<item value="steri_vac"/>
+		<item value="ARR"/>
+	</list>
+	<list key="replacehistory">
+		<item value="lgc"/>
+	</list>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="selection" value="for (uint8_t i = 0; i &lt; LGC_SENSOR_NUMBER; i++)"/>
+		<list key="findhistory">
+			<item value="for (uint8_t i = 0; i &lt; LGC_SENSOR_NUMBER; i++)"/>
+			<item value="if (lwrb_get_full(&amp;modbus_rx_rb) &gt;= count)"/>
+		</list>
+	</section>
+</section>

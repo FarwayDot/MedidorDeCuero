@@ -1,0 +1,10 @@
+15:17:00 **** Incremental Build of configuration Debug for project leather_gauge_sensor ****
+make -j8 all 
+arm-none-eabi-size  leather_gauge_sensor.elf 
+   text	   data	    bss	    dec	    hex	filename
+  57252	      0	   5464	  62716	   f4fc	leather_gauge_sensor.elf
+Finished building: default.size.stdout
+ 
+
+15:17:00 Build Finished. 0 errors, 0 warnings. (took 413ms)
+
